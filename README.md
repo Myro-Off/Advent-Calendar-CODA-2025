@@ -3,7 +3,9 @@
 Un outil performant écrit en **C** pour analyser les provisions caloriques d'une expédition d'Elfes. Ce projet parse, agrège et classe les données pour déterminer quels Elfes transportent le plus de calories.
 
 ![Language](https://img.shields.io/badge/Language-C-blue.svg)
-![License](https://img.shields.io/badge/License-MIT-green.svg)
+![Day](https://img.shields.io/badge/Day-4-red.svg)
+
+> 🎅 **Challenge :** Ce projet est la solution du **Jour 4** du calendrier de l'avent [Coda School Advent 2025](https://coda-school.github.io/advent-2025/).
 
 ## 📋 Description
 
