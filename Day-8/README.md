@@ -35,13 +35,5 @@ Une carte interactive est générée avec les 3 localisations :
 *![](carte.png)*
 > Les marqueurs verts indiquent la position précise. Une étiquette persistante affiche le nom, la ville et le score de sagesse.
 
-## 🛠️ Installation & Utilisation
 
-Ce projet est conçu pour être exécuté dans un **Jupyter Notebook** ou via un script Python standard.
-
-### Prérequis
-* Python 3.8+
-* Les librairies de Data Science :
-
-```bash
-pip install pandas folium pyproj
+### Si vous souhaitez accéder à la carte interactive conçue avec **Jupyter Notebook** directement, [cliquez ici](https://nbviewer.org/github/Myro-Off/Advent-Calendar-CODA-2025/blob/main/Day-8/main.ipynb)
