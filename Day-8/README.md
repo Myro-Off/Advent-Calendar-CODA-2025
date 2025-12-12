@@ -36,4 +36,4 @@ Une carte interactive est générée avec les 3 localisations :
 > Les marqueurs verts indiquent la position précise. Une étiquette persistante affiche le nom, la ville et le score de sagesse.
 
 
-### Si vous souhaitez accéder à la carte interactive conçue avec **Jupyter Notebook** directement, [cliquez ici](https://nbviewer.org/github/Myro-Off/Advent-Calendar-CODA-2025/blob/main/Day-8/main.ipynb) (ne fonctionne pas toujours à cause d'un nombre top élevé de requêtes vers l'API Github)
+### Si vous souhaitez accéder à la carte interactive conçue avec **Jupyter Notebook** directement, [cliquez ici](https://nbviewer.org/github/Myro-Off/Advent-Calendar-CODA-2025/blob/main/Day-8/main.ipynb) (ne fonctionne pas toujours à cause d'un nombre trop élevé de requêtes vers l'API Github)
